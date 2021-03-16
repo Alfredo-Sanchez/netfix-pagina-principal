@@ -1,4 +1,4 @@
-# Netfix-pagina-principal
+# Netflix-pagina-principal
 En este ejercicio realice la pagina principal de Netflix e ire agregando funcionalidades.
 ## Contiene
   * HTML
